@@ -1,0 +1,62 @@
+#leftpane{
+	-fx-background-image: url("arcade4.2.jpg");
+			-fx-background-size:stretch ; 
+}
+.label{
+	-fx-text-fill:white;
+	-fx-font-family:"Lucida Console"; 
+}
+#lbl1{
+	-fx-text-fill:#D50000;
+}
+#lbls1{
+	-fx-font-family:"Century Gothic"; 
+}
+#lbls2{
+	-fx-font-family:"Century Gothic"; 
+}
+#lble{
+	-fx-font-family:"Century Gothic"; 
+}
+#lblcontact{
+	-fx-font-family:"Century Gothic"; 
+}
+#welcome {
+	-fx-font-weight:bold; 
+	-fx-font-family:"Arial Narrow"; 
+	
+	
+}
+#back{
+	-fx-font-weight:900; 
+	-fx-font-family:"Arial Narrow";
+	
+}
+#btn2:hover{
+	
+	-fx-background-color:#CA8700; 
+	-fx-text-fill:white; 
+}
+#btn2:pressed{
+	-fx-background-color:#CB1D1A; 
+	-fx-text-fill:white; 
+}
+
+#txt1{
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20 20 20 20;
+      -fx-border-color: #CB1D1A;
+  
+}
+#txt2{
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20 20 20 20;
+    -fx-border-color: #CB1D1A;
+    
+}
+#btn2{
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20 20 20 20;
+    	-fx-font-family:"Lucida Console"; 
+   
+}
